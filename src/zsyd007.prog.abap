@@ -10,3 +10,4 @@ WRITE: 'syd'.
 WRITE: 'HR04'.
 WRITE: '开发分支正在开发'.
 WRITE: 'hotfix紧急传输'.
+WRITE: 'HR04 第二次hotfix紧急传输'.
