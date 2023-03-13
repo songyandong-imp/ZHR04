@@ -32,3 +32,5 @@ START-OF-SELECTION.
   ENDDO.
 
   MODIFY ztabap_scarr FROM TABLE lt_scarr.
+
+  WRITE: 'hello world'.
