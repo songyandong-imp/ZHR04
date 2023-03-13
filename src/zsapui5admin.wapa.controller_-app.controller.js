@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller"],function(n){"use strict";return n.extend("com.sap.demo.sapui5admin.controller.App",{onInit:function(){}})});                                                                                                      
